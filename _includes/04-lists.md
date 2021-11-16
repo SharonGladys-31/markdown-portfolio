@@ -1,3 +1,3 @@
-food 
-travel
-fun
+* food 
+* travel
+* fun
