@@ -1,0 +1,3 @@
+* food 
+* travel
+* fun
